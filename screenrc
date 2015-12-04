@@ -1,4 +1,5 @@
-# location : /etc/screenrc
+# mac location : $HOME/.screenrc
+# ubuntu/linux location : /etc/screenrc
 # add status bar v1
 caption always "%{=u .r} %-w%<%{=ub .Y}%n %t%{=u .r}%+w "
 hardstatus alwaysignore
